@@ -1,0 +1,45 @@
+body {
+    background-color: #dcf5f5;
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto 400px;
+    font-size: large;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    margin: 50px auto;
+}
+h1{
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+
+table {
+    text-align: center;
+    margin-left: 40px;
+} 
+
+footer {
+    padding: 10px;
+    background-color: white;
+    font-size: small;
+    font-weight: 700;
+}
+
+.hobb {
+    text-align: left;
+    padding-left: 20%;
+}
+.skill {
+    text-align: left;
+    margin: auto;
+}
+.about {
+    text-align: left;
+}
